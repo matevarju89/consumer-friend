@@ -1,0 +1,11 @@
+/*Create the style of pay button*/
+
+
+.pay-button{
+
+	position:fixed;
+	left:2%;
+	bottom:10%;
+	max-width:20%;
+	
+}
